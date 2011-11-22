@@ -1,1 +1,1 @@
-test
+Моё резюме: http://lonm.github.com/
